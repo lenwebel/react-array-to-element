@@ -2,6 +2,7 @@
   "name": "react-array-to-element",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/LenWebel/react-array-to-element.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
